@@ -1,0 +1,12 @@
+{
+  "company": "Your Company",
+  "country": "US",
+  "email": "yourname@example.com",
+  "edition": "Developer",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  }
+}
